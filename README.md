@@ -1,1 +1,1 @@
-simple example to access mongoDb usin springboot java
+simple example to access mongoDb using springboot java
